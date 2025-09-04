@@ -1,1 +1,1 @@
-hello
+line from feature2
